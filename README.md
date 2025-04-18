@@ -33,5 +33,7 @@ Repository URL: https://github.com/<your-username>/hello-java-jenkins.git
 
 After a successful build, the compiled .jar file will be located in the target/ directory.
 
+![Image](https://github.com/user-attachments/assets/8d87159a-d9e6-447c-be32-895c2da0938e)
+
 ## 👤 Author
 GitHub: rxm-gupta
