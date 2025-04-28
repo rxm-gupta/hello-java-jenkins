@@ -1,6 +1,6 @@
 # Hello Java Jenkins - Build Demo
 
-This project demonstrates how to build a simple Java application using Maven in a Jenkins Freestyle job.]
+This project demonstrates how to build a simple Java application using Maven in a Jenkins Freestyle job.
 
 ## Prerequisites
 Docker: Make sure Docker is installed and running on your machine.
